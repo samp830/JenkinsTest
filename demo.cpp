@@ -7,7 +7,8 @@ using namespace Hello;
 int main(int argc, char *argv[]){
 Speaker* speaker = new Speaker();
 speaker->sayHello();
-std :: ofstream outfile ("test.txt");
-outfile << "test text" << std :: endl;
-outfile.close();
+ofstream myfile;
+myfile.open("test.txt");
+myfile << "testtext" << endl;
+myfile.close();
 }
