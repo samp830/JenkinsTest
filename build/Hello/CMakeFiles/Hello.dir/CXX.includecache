@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sp/Desktop/cppbuild/Hello/Speaker.cpp
+Speaker.h
+/home/sp/Desktop/cppbuild/Hello/Speaker.h
+
+/home/sp/Desktop/cppbuild/Hello/Speaker.h
+stdio.h
+-
+iostream
+-
+

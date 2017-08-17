@@ -1,0 +1,14 @@
+/home/sp/Desktop/cppbuild/build/CMakeFiles/rebuild_cache.dir
+/home/sp/Desktop/cppbuild/build/CMakeFiles/install.dir
+/home/sp/Desktop/cppbuild/build/CMakeFiles/list_install_components.dir
+/home/sp/Desktop/cppbuild/build/CMakeFiles/CMakeHelloWorld.dir
+/home/sp/Desktop/cppbuild/build/CMakeFiles/install/strip.dir
+/home/sp/Desktop/cppbuild/build/CMakeFiles/install/local.dir
+/home/sp/Desktop/cppbuild/build/CMakeFiles/edit_cache.dir
+/home/sp/Desktop/cppbuild/build/Hello/CMakeFiles/install.dir
+/home/sp/Desktop/cppbuild/build/Hello/CMakeFiles/list_install_components.dir
+/home/sp/Desktop/cppbuild/build/Hello/CMakeFiles/rebuild_cache.dir
+/home/sp/Desktop/cppbuild/build/Hello/CMakeFiles/install/local.dir
+/home/sp/Desktop/cppbuild/build/Hello/CMakeFiles/install/strip.dir
+/home/sp/Desktop/cppbuild/build/Hello/CMakeFiles/Hello.dir
+/home/sp/Desktop/cppbuild/build/Hello/CMakeFiles/edit_cache.dir

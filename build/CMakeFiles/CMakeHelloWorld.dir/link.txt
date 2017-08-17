@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/CMakeHelloWorld.dir/demo.cpp.o  -o CMakeHelloWorld -rdynamic Hello/libHello.a 
